@@ -14,8 +14,7 @@ Durante este laboratório, os participantes aprenderão a:
 ✅ **Criar e configurar serviços** com base nas melhores práticas do Azure.  
 
 ---
-🔗 Links Úteis
-🔹 Portal do Azure: Microsoft Azure 🔹 Documentação Oficial: Azure Docs 🔹 Certificações Microsoft: Microsoft Learn
+
 
 🚀 Como Executar o Laboratório?
 
